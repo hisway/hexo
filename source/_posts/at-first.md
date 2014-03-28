@@ -1,6 +1,7 @@
 title: At First
 date: 2014-03-07 17:11:35
-tags:
+categories: 三言两语
+tags: mac
 ---
 Mac 到手有几天功夫了，所以每天都在折腾，配置环境，各种软件，在这里一一记录。
 
@@ -24,7 +25,7 @@ Mac 到手有几天功夫了，所以每天都在折腾，配置环境，各种�
 - 自带safari很好用，默认浏览器，
 - chrome
 - firefox
-
+<!--more-->
 ##视听娱乐
 - 豆瓣电台
 - pps
