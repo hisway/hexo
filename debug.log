@@ -1,4 +1,4 @@
-date: 2014-03-24 15:01:28.641
+date: 2014-04-10 09:37:32.276
 argv: node /usr/local/bin/hexo d
 os: Darwin 13.1.0 darwin x64
 version:
@@ -13,10 +13,10 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 15:01:28.585 Configuration file load successfully
-[debug] 15:01:28.586 Version info checked successfully
-[debug] 15:01:28.607 Loading database.
-[info] 15:01:28.628 Start deploying: github
-[info] 15:01:28.631 Clearing .deploy folder...
-[error] 15:01:28.635 Error: EACCES, unlink '/Users/hisway/code/hexo/.deploy/about/index.html'
+[debug] 09:37:32.211 Configuration file load successfully
+[debug] 09:37:32.213 Version info checked successfully
+[debug] 09:37:32.234 Loading database.
+[info] 09:37:32.257 Start deploying: github
+[info] 09:37:32.260 Clearing .deploy folder...
+[error] 09:37:32.264 Error: EACCES, unlink '/Users/hisway/code/hexo/.deploy/about/index.html'
 Error: EACCES, unlink '/Users/hisway/code/hexo/.deploy/about/index.html'
